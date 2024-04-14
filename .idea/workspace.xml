@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1acc1503-488d-456c-9a05-ee3dc1896438" name="Changes" comment="Add the source URL and added the selector id &#10;&gt;&gt; created extract.yaml file">
+    <list default="true" id="1acc1503-488d-456c-9a05-ee3dc1896438" name="Changes" comment="Added data.txt where the list of events are stored, no duplicate will be saved in the event of storing &#10;&#10;&gt;&gt; there is dummy email print, so we know the email is working">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,12 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713090607089</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added data.txt where the list of events are stored, no duplicate will be saved in the event of storing &#10;&#10;&gt;&gt; there is dummy email print, so we know the email is working">
+      <option name="closed" value="true" />
+      <created>1713091569846</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713091569846</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Intial Commit" />
     <MESSAGE value="Add the source URL and added the selector id &#10;&gt;&gt; created extract.yaml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add the source URL and added the selector id &#10;&gt;&gt; created extract.yaml file" />
+    <MESSAGE value="Added data.txt where the list of events are stored, no duplicate will be saved in the event of storing &#10;&#10;&gt;&gt; there is dummy email print, so we know the email is working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added data.txt where the list of events are stored, no duplicate will be saved in the event of storing &#10;&#10;&gt;&gt; there is dummy email print, so we know the email is working" />
   </component>
 </project>
